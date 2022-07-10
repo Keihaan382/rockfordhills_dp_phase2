@@ -2,8 +2,6 @@
 
 Recently a Ybn file has been replaced, which had a non-collision area, precisely at the input.
 
-Thanks **@amgmacht** for reporting the problem.
-
 In a short time the final update, phase 3, will also be available.
 
 All phases will be free, and completely open for editing and/or modification.
