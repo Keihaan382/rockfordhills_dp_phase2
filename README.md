@@ -6,7 +6,7 @@ Thanks **@amgmacht** for reporting the problem.
 
 In a short time the final update, phase 3, will also be available.
 
-All phases will be free, and completely free for editing and/or modification.
+All phases will be free, and completely open for editing and/or modification.
 
 Collision repaired, you can directly download the **bh1_07_0.ybn** file from the [ybn] folder.
 Replace your stream file.
