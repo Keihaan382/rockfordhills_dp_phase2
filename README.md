@@ -11,8 +11,9 @@ All phases will be free, and completely free for editing and/or modification.
 Collision repaired, you can directly download the **bh1_07_0.ybn** file from the [ybn] folder.
 Replace your stream file.
 
-**Directory:
-rockfordhills_dp_phase2/K382_RockfordHills_dp_Fase02/stream/[ybn]**
+
+•**Directory:
+  rockfordhills_dp_phase2/K382_RockfordHills_dp_Fase02/stream/[ybn]**
 
 # rockfordhills_dp_phase2
 Second phase of the construction of the Police Department on RockfordHills GtaV for FiveM.
