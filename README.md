@@ -12,7 +12,7 @@ Collision repaired, you can directly download the **bh1_07_0.ybn** file from the
 Replace your stream file.
 
 
-•**Directory:
+• **Directory:
   rockfordhills_dp_phase2/K382_RockfordHills_dp_Fase02/stream/[ybn]**
 
 # rockfordhills_dp_phase2
