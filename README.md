@@ -2,17 +2,17 @@
 
 Recently a Ybn file has been replaced, which had a non-collision area, precisely at the input.
 
-Thanks @amgmacht for reporting the problem.
+Thanks **@amgmacht** for reporting the problem.
 
 In a short time the final update, phase 3, will also be available.
 
 All phases will be free, and completely free for editing and/or modification.
 
-Collision repaired, you can directly download the bh1_07_0.ybn file from the [ybn] folder.
+Collision repaired, you can directly download the **bh1_07_0.ybn** file from the [ybn] folder.
 Replace your stream file.
 
-Directory:
-rockfordhills_dp_phase2/K382_RockfordHills_dp_Fase02/stream/[ybn]
+**Directory:
+rockfordhills_dp_phase2/K382_RockfordHills_dp_Fase02/stream/[ybn]**
 
 # rockfordhills_dp_phase2
 Second phase of the construction of the Police Department on RockfordHills GtaV for FiveM.
